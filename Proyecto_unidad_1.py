@@ -29,7 +29,7 @@ interseccion = A & B
 print("Intersección de A y B:", interseccion)
 
 diferencia = A - B
-print("Diferende A m B:", diferencia)
+print("Diferencia de A m B:", diferencia)
 
 diferencia_simetrica = A ^ B
 print("Diferencia simétrica de A y B:", diferencia_simetrica)
